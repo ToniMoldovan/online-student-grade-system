@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Antonio",
+        "lastName": "Moldovan",
+        "username": "tonitoni9",
+        "password": "$2y$10$hY4ryIaRnUGX0Gqf2Hvohuy4vgjt2hObNfsNy1p2UOJhnX.PB6qMW",
+        "email": "toni@yahoo.com"
+    },
+    {
+        "firstName": "Antonio",
+        "lastName": "Moldovan",
+        "username": "toni",
+        "password": "$2y$10$JkOoiN8B8gV4bYZmWw3k..Hb\/JtTLJb1EHFeihPOYbViEQhUWTy7C",
+        "email": "toni@yahoo.com"
+    },
+    {
+        "firstName": "Cristina",
+        "lastName": "Moldovan",
+        "username": "cristina",
+        "password": "$2y$10$gO9RqAxQlNKpOquBfL5ZB.RKtZxUBhJTByUWh\/.8HV5ppWcz2bUJq",
+        "email": "toni@yahoo.com"
+    },
+    {
+        "firstName": "Daria",
+        "lastName": "Barac",
+        "username": "daria",
+        "password": "$2y$10$AWfDAHfynv0Q70fIHZyDD.VssPEW9w.ius45Afbxd7QEVoOF0N3EW",
+        "email": "toni@yahoo.com"
+    }
+]
